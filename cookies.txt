@@ -1,6 +1,6 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 smashcamp.xyz	TRUE	/	FALSE	1999999999	button_presses	0
-.smashcamp.xyz	TRUE	/	FALSE	1999999999	_camp_devise_session	WGIKEtyF96poqe%2BZEKfkl6YR%2BBAbkpwCTVYF7dawJuaTio1kAnwaBYaqN8orBAiotiPw9e0fhx0Xgiye8J8mqTScEe46UKfNKqcoc8P1JuN3z1jByx7LyIZXLPaS%2Fp7gxuODorJWgR716paZp%2FKntkS5iAlhZMFk49BGIVvaUCbMGAL1oFLQR%2BK2nkBPa7K3oHBaquI7vZsleect1mJYBmD%2BEz5CcMcNOeq83N8g8TmuQp%2FW0O0OVAxqvcuoXO0bs%2BPwpK7kxx4NgkGT8qxMZNmT4tNYhAaChigvQg%3D%3D--LRxugabh2U4Jm1Yj--55iFWMKj3tWAWr18cC0TDw%3D%3D
+.smashcamp.xyz	TRUE	/	FALSE	1999999999	_camp_devise_session	X8eSnzQoLQnZfkuef3Kx15qPht8z0g3CboHLLrkgDrZOnVFg1zCWhvkFcOjXr0l22tRQ88axjYzizfcs6%2BBbBq5BXgeAhowC%2FEFhHOYbQQNYF9naQnWJMZI2Gsfv31yd6%2Brt9ZC7Xn0JIPr8qcU8ZBdS6b29OhXYYtzdvAfcX6gnJ%2BQuelm9ddnezanPjjaiPdtgm%2F8MckKrYMijtRiaVLMc0CBCB59o6qUDfjjky5ds3KVkOmMidZ7Rf%2FHDruoZVPPi3280PNVDrAqiIxhNgX%2BDgMl%2ByBFredO8ag%3D%3D--8Xke1qKsx%2BzuCt%2Bh--AVrslMyBrZAKGWNyrjlUSQ%3D%3D
 smashcamp.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
 

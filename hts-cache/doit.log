@@ -1,5 +1,5 @@
-https://smashcamp.xyz -O ./ +*.smashcamp.xyz/* -v
-File generated automatically on Thu, 03 Oct 2024 21:46:03, do NOT edit
+https://smashcamp.xyz https://smashcamp.xyz/* -v
+File generated automatically on Thu, 03 Oct 2024 23:24:17, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
