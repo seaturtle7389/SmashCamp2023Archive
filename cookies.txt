@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+smashcamp.xyz	TRUE	/	FALSE	1999999999	button_presses	0
+.smashcamp.xyz	TRUE	/	FALSE	1999999999	_camp_devise_session	WGIKEtyF96poqe%2BZEKfkl6YR%2BBAbkpwCTVYF7dawJuaTio1kAnwaBYaqN8orBAiotiPw9e0fhx0Xgiye8J8mqTScEe46UKfNKqcoc8P1JuN3z1jByx7LyIZXLPaS%2Fp7gxuODorJWgR716paZp%2FKntkS5iAlhZMFk49BGIVvaUCbMGAL1oFLQR%2BK2nkBPa7K3oHBaquI7vZsleect1mJYBmD%2BEz5CcMcNOeq83N8g8TmuQp%2FW0O0OVAxqvcuoXO0bs%2BPwpK7kxx4NgkGT8qxMZNmT4tNYhAaChigvQg%3D%3D--LRxugabh2U4Jm1Yj--55iFWMKj3tWAWr18cC0TDw%3D%3D
+smashcamp.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
